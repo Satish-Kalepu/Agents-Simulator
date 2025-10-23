@@ -1,0 +1,5 @@
+{
+  "name": "Agents Simulator",
+  "description": "A web application to create, manage, and test AI agents with different models and tools. It includes user management, session tracking, and message history.",
+  "requestFramePermissions": []
+}

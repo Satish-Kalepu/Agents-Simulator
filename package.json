@@ -1,0 +1,12 @@
+{
+  "name": "agents-simulator",
+  "version": "1.0.0",
+  "description": "A web application to create, manage, and test AI agents.",
+  "private": true,
+  "scripts": {
+    "db:setup": "node db_setup.js"
+  },
+  "dependencies": {
+    "mongodb": "^6.8.0"
+  }
+}
